@@ -1,0 +1,30 @@
+/* #region "./src/light.css" */
+/*
+- type: css/auto
+*/
+:root {
+    --text-colour: #cccccc;
+}
+/* #endregion "./src/light.css" */
+
+/* #region "./src/dark.css" */
+/*
+- type: css/auto
+*/
+:root {
+    --text-colour: #000000;
+}
+/* #endregion "./src/dark.css" */
+
+/* #region "./src/render.css" */
+/*
+- type: css/auto
+*/
+
+
+
+.text {
+    color: var(--text-colour);
+}
+/* #endregion "./src/render.css" */
+

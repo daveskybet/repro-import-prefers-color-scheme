@@ -1,3 +1,6 @@
+@import "light.css";
+@import "dark.css" (prefers-color-scheme: dark);
+
 .text {
-    color: blue;
+    color: var(--text-colour);
 }
